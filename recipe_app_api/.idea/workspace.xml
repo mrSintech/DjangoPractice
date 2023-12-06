@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93134db7-57bd-4ee3-997b-4d60a8811f85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/core/management/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/management/commands/wait_for_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/tests/test_commands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/checks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/checks.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe_app_api/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipe_app_api/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +87,10 @@
       <option name="presentableId" value="Default" />
       <updated>1701457430460</updated>
       <workItem from="1701457431463" duration="13395000" />
-      <workItem from="1701522200575" duration="1737000" />
+      <workItem from="1701522200575" duration="2804000" />
+      <workItem from="1701554907690" duration="43000" />
+      <workItem from="1701711929169" duration="27000" />
+      <workItem from="1701864229674" duration="10301000" />
     </task>
     <servers />
   </component>
